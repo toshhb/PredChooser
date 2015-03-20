@@ -50,7 +50,7 @@ legend('bottomright', c('mpg','predictions'), pch=1, col=c('black','red'), bty='
 PredChooser
 ========================================================
 type: section
-[Try this:](https://www.google.com)
+[Try this:](http://toshhb.shinyapps.io/PredChooser)
 
 ![](PredChooserScreenshot.png)
 
